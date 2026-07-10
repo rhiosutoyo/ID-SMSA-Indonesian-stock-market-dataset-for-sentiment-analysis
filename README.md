@@ -1,6 +1,8 @@
 # ID-SMSA: Indonesian stock market dataset for sentiment analysis
 
-This repository contains datasets related to our paper [ID-SMSA: Indonesian stock market dataset for sentiment analysis](https://doi.org/10.1016/j.dib.2025.111571). This dataset is also available on the [Mendeley Data website](https://doi.org/10.17632/tn4vzs8tdw.3). Moreover, the dataset has been utilized and implemented in this paper [A Deep Learning Approach to Sentiment Analysis of Indonesian Stock Market Using IndoBERT](https://ieeexplore.ieee.org/abstract/document/11281119).
+This repository contains datasets related to our paper [ID-SMSA: Indonesian stock market dataset for sentiment analysis](https://doi.org/10.1016/j.dib.2025.111571). 
+* This dataset is also available on the [Mendeley Data website](https://doi.org/10.17632/tn4vzs8tdw.3). 
+* The dataset has been utilized and implemented in this paper [A Deep Learning Approach to Sentiment Analysis of Indonesian Stock Market Using IndoBERT](https://ieeexplore.ieee.org/abstract/document/11281119).
 
 ## Value of the Data
 
