@@ -1,15 +1,18 @@
 # ID-SMSA: Indonesian stock market dataset for sentiment analysis
 
-This repository contains datasets related to our paper [ID-SMSA: Indonesian stock market dataset for sentiment analysis](https://doi.org/10.1016/j.dib.2025.111571). 
-* This dataset is also available on the [Mendeley Data website](https://doi.org/10.17632/tn4vzs8tdw.3). 
-* The dataset has been utilized and implemented in this paper [A Deep Learning Approach to Sentiment Analysis of Indonesian Stock Market Using IndoBERT](https://ieeexplore.ieee.org/abstract/document/11281119).
+This repository contains datasets related to our paper [ID-SMSA: Indonesian stock market dataset for sentiment analysis](https://doi.org/10.1016/j.dib.2025.111571). This dataset is also available on the [Mendeley Data website](https://doi.org/10.17632/tn4vzs8tdw.3). 
+
+
+The dataset has been used in these papers:
+1. [A Deep Learning Approach to Sentiment Analysis of Indonesian Stock Market Using IndoBERT](https://ieeexplore.ieee.org/abstract/document/11281119).
+2. [Sentiment Analysis on Indonesian Stock Market Texts: A Comparative Study of Support Vector Machine (SVM) and IndoBERT](https://ieeexplore.ieee.org/abstract/document/11351619)
 
 ## Value of the Data
 
-- Public stock market datasets are typically in English and focus on foreign stock markets. None of them focus on the Indonesian stock market. ID-SMSA is the first Indonesian stock market dataset presented in Indonesia. Moreover, this high quality, domain specific dataset is annotated for sentiment analysis tasks that supports the research community in learning and understanding Indonesian stock market.
-- The dataset contains more than 3000 sentiment tweets (i.e., positive, neutral, negative) related to the Indonesian stock market, mined from X (formerly Twitter) using the top 10 most significant market caps in the Indonesian stock market as the keyword and ranged within the period of January 12, 2021, to March 1, 2024. It is annotated following specific annotation criteria created and reviewed by an expert in clinical psychology.
-- ID-SMSA dataset can be utilized for research community such as researchers, developers, stock analysts to analyze the sentiment trends and stock-related discussions and gain insights using existing Natural Language Processing (NLP) models like BERT, LSTM, and Transformer. Thus, it enables the development of sentiment analysis models specifically trained on the Indonesian financial market, contributing to both academic research and real-world financial applications.
-- The dataset includes extra attributes and metadata, such as tweet date, quote count, reply count, retweet count, and favorite count. These attributes open the possibilities for broader sentiment analysis research, including market reactions, social media influence, and investor sentiment dynamics overtime. These could improve models for classifying tweet sentiment and may also be helpful for future sentiment analysis research.
+- Public stock market datasets are typically in English and focus on foreign stock markets. None of them focuses on the Indonesian stock market. ID-SMSA is the first Indonesian stock market dataset presented in Indonesia. Moreover, this high-quality, domain-specific dataset is annotated for sentiment analysis tasks, supporting the research community in learning and understanding the Indonesian stock market.
+- The dataset contains more than 3000 sentiment tweets (i.e., positive, neutral, negative) related to the Indonesian stock market, mined from X (formerly Twitter) using the top 10 most significant market caps in the Indonesian stock market as the keyword and ranging within the period of January 12, 2021, to March 1, 2024. It is annotated according to specific criteria developed and reviewed by an expert in clinical psychology.
+- ID-SMSA dataset can be utilized for the research community, such as researchers, developers, and stock analysts, to analyze the sentiment trends and stock-related discussions and gain insights using existing Natural Language Processing (NLP) models like BERT, LSTM, and Transformer. Thus, it enables the development of sentiment analysis models specifically trained on the Indonesian financial market, contributing to both academic research and real-world financial applications.
+- The dataset includes extra attributes and metadata, such as tweet date, quote count, reply count, retweet count, and favorite count. These attributes open the possibilities for broader sentiment analysis research, including market reactions, social media influence, and investor sentiment dynamics over time. These could improve models for classifying tweet sentiment and may also be helpful for future research on sentiment analysis.
 
 ## Data Annotation
 
